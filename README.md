@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Clone `nextjs-postgres-nextauth-tailwindcss-template` with the following tech stack:
+
+- Framework - Next.js (App Router)
+- Language - TypeScript
+- Styling - Tailwind CSS
+- Component UI - Headless UI
+- State management - React Toolkit
+- Tanstack query
+- Form state management - React Hook Form
+
 ## Getting Started
 
 First, run the development server:
